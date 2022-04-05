@@ -62,7 +62,8 @@ int main()
         {
         case 1:
             {
-
+                Prim ptree(MultCountry);
+                ptree.Project(MultCountry);
                 break;
             }
         case 2:
